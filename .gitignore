@@ -1,0 +1,7 @@
+test
+*.hcl
+*.info
+*.tfstate
+*.backup
+*.terraform
+*.plan
